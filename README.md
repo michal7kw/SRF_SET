@@ -1,3 +1,40 @@
+To do:
+
+- analyse multiome data, stratyfied by P2 and Embryo development stages
+- check gene expression in mulitome data (validate their derivation)
+
+Genes to check:
+Difference between mutant and control at the two different timpoints.
+
+AMPAR auxiliary subunits:
+- TARP γ-2
+- TARP γ-8
+- CNIH-2
+- CNIH-3
+- CKAMP44
+- GSG1L
+
+PV-enriched genes:
+- cFos
+- PGC-1𝛂
+- Pvalb
+- Cplx1
+- Syt2
+- Kcnc1
+- Kcna1
+- Bcan
+
+Neural microcircuits:
+- Bmp2
+- Bdnf
+- Id1
+- Id3
+- Smad1
+- Smad5
+- Samd6
+- Smad7
+
+
 ## Balanced SET levels favor the correct enhancer repertoire during cell fate acquisition
 
 [Balanced SET levels favor the correct enhancer repertoire during cell fate acquisition | Nature Communications](https://www.nature.com/articles/s41467-023-39043-x)
