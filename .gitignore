@@ -21,6 +21,7 @@ output/
 *.h5pydata.h5pydata
 *.gz
 *.csv
+*.png
 
 Multiome_SETBP1/Multiome_SETBP1/
 Multiome_SETBP1/cache/
@@ -28,3 +29,4 @@ Multiome_SETBP1/output/
 __pycache__/
 Archive/
 Multiome_SETBP1/multiome_data.h5Seurat
+plots/
