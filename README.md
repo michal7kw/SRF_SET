@@ -1,3 +1,5 @@
+!!! ./ric.broccoli/kubacki.michal/SRF_SET/Multiome_SETBP1/Multiome_SETBP1 has been moved to the new location: ./ric.briccoli/ric.briccoli/Multiome_SETBP1 !!!
+
 To do:
 
 - analyse multiome data, stratyfied by P2 and Embryo development stages
